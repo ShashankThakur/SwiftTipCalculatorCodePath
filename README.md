@@ -22,6 +22,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 - [YES] User can save a bill and view it in history.
 - [YES] Remembering the tip percentage amount across app restarts
+- [YES] Remembering the history of user bills across app restarts
+
 
 - [ ] List anything else that you can get done to improve the app functionality!
 Adding UI animations
