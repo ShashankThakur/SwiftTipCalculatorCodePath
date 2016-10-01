@@ -23,6 +23,8 @@ The following **additional** features are implemented:
 - [YES] User can save a bill and view it in history.
 - [YES] Remembering the tip percentage amount across app restarts
 - [YES] Remembering the history of user bills across app restarts
+- [YES] App is implemented with autolayout, works both in landascape and protrait mode.
+
 
 
 - [ ] List anything else that you can get done to improve the app functionality!

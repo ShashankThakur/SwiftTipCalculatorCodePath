@@ -37,6 +37,14 @@ class BillHistoryViewController: UITableViewController {
         cell.baseBillLabel.text = billEntry[0]
         cell.tipLabel.text = billEntry[1]
         cell.totalBillLabel.text = billEntry[2]
+        if (indexPath.row % 2 == 0)
+        {
+            cell.backgroundColor = UIColor .greenColor();
+        }
+        else
+        {
+            cell.backgroundColor = UIColor .yellowColor();
+        }
         return cell
     }
     
